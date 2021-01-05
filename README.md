@@ -1,6 +1,6 @@
 # 2020_Antisemitism_Hackathon  
 ## Project Summary
-This is the source code for the IU Antisemitism Datathon and Hackathon 2020. The final project classifier is an LSTM Keras network using word embeddings and several hidden layers. We experimented using several different classification methods before concluding that the LSTM network gave superior performance, with a test F! score of 79%.
+This is the source code for the IU Antisemitism Datathon and Hackathon 2020. The final project classifier is an LSTM Keras network using word embeddings and several hidden layers. We experimented using several different classification methods before concluding that the LSTM network gave superior performance, with a test F1 score of 79%.
 
 # Methods Explored:
 ## 1) Ngrams Model with Tf-Idf vectorization
